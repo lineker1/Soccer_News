@@ -10,7 +10,7 @@ import androidx.navigation.ui.NavigationUI;
 
 import me.dio.soccernews.R;
 import me.dio.soccernews.databinding.ActivityMainBinding;
-
+//app
 public class MainActivity extends AppCompatActivity {
 
     private ActivityMainBinding binding;
